@@ -9,7 +9,7 @@ end
 
 
 
-def not_safe?(speed)
+def safe?(speed)
 	#ternary assert_operator
 	#true if speed is < 40 or > 60
 	#false if not_safe
